@@ -1,7 +1,7 @@
 ---
 templateKey: 'about-page'
 path: /about
-title: About BigBanonos Club
+title: About Joseph
 ---
 ### Scoring 100% on Google's WebDev
 My attempt at a free, performant site that scores 100/100 for Performance, SEO, Accessibility, and Best Practices. Using Wordpress, Gatsby, Netlify, and Markdown.
