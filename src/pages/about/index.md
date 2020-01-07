@@ -3,11 +3,11 @@ templateKey: 'about-page'
 path: /about
 title: About BigBanonos Club
 ---
+### Scoring 100% on Google's WebDev
+My attempt at a free, performant site that scores 100/100 for Performance, SEO, Accessibility, and Best Practices. Using Wordpress, Gatsby, Netlify, and Markdown.
+
 ### International Music
 2019 featured Spain's Rosalia, Nigeria's Burna Boy, y was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
-
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
 
 ### Sustainable farming
 Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
