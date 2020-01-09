@@ -59,7 +59,7 @@ main:
     image: /img/products-grid2.jpg
   image3:
     alt: Coffee beans
-    image: /img/products-grid1.jpg
+    image: /img/web-developer.png
 testimonials:
   - author: Elisabeth Kaurismäki
     quote: >-
