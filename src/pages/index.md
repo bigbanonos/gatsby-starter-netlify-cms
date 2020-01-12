@@ -1,21 +1,22 @@
 ---
 templateKey: index-page
-title: The BigBanonos Club
+title: The Park Slope Book Club
 image: /img/home-jumbotron.jpg
-heading: The BigBanonos Club
-subheading: 'a Park Slope, Brooklyn-based Arts Community'
+heading: The Park Slope Book Club
+subheading: A Brooklyn-Based Art Community in Park Slope
 mainpitch:
-  title: Why Join BB.C?
+  title: How To Join
   description: >-
-    BigBanonos is an NYC media-based community hub for enthusiasts who enjoy
-    discussing and debating the best in current music, articles, & news.
-    BigBanonos Club Membership includes free Feedly, Audible, & Spotify
-    subscriptions, and half birthday prizes.
+    Joining the club is free to the public! Membership, Audible Subscriptions,
+    Events, and Books are fully funded by the and the Park Slope Book Club
+    (PSBC) organizers. To join, simply send us a message.
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  The Park Slope Book Club meets regularly. Check out our Calendar for upcoming
+  events at the Grand Army Plaza Library, Barnes & Noble on 7th Avenue, Pino's
+  Pizza, The Park Slope Library, and Kaldi is the ultimate spot for coffee
+  lovers who want to learn about their java’s origin and support the farmers
+  that grew it. We take coffee production, roasting and brewing seriously and
+  we’re glad to pass that knowledge to anyone.
 intro:
   blurbs:
     - image: /img/coffee.png
